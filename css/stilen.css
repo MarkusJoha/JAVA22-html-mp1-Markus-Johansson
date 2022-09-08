@@ -1,0 +1,84 @@
+.porträtt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-top: 100px;
+}
+.namn{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:firebrick;
+}
+.introduktion, .citat{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.länk{
+    text-align: center;
+}
+.startlänk1{
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 100px;
+    color:black;
+    text-decoration: none;
+}
+.startlänk1:hover{
+    background-color: green;
+}
+.rubrik-insp{
+    margin-top: 100px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:green;
+}
+.stoicismen{
+    display: block;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin: auto;
+    width: 100px;
+}
+.stoicismen:hover{
+    background-color: aqua;
+}
+.daily-stoic:hover{
+    background-color: brown;
+}
+.startlänk2{
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 100px;
+    text-decoration: none;
+    color:black;
+}
+.startlänk2:hover{
+    background-color: blueviolet;
+}
+.kontakt{
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkseagreen;
+}
+.hem{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.startlänk3{
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 110px;
+    text-decoration: none;
+    color: black;
+}
+.startlänk3:hover{
+    background-color: crimson;
+}
+.formulär{
+    text-align: center;
+}

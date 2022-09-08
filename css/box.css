@@ -1,0 +1,34 @@
+div{
+    border: red solid 2px;
+    color:red;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin: 20px 40px 60px 80px;
+}
+h1{
+    border: green solid 2px;
+    color:green;
+    /*margin-left: 20px;
+    margin-right: 20px; */
+    width: 28%;
+}
+
+p{
+    border: blue solid 2px;
+    color:blue;
+    margin-top: 100px;
+    padding: 20px 40px 60px;
+}
+a{
+    border:purple solid 2px;
+    padding: 20px;
+    margin: 20px;
+    list-style: none;
+}
+img{
+    width: 100px;
+ margin: 0 auto 0;
+ border:pink solid 2px;
+ display: block;
+}

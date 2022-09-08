@@ -1,0 +1,36 @@
+h2{
+    color:hotpink;
+}
+h4{
+    color:hotpink;
+}
+p{
+    font-family: cursive;
+    font-size:2rem;
+    margin-left: 250px;
+    padding-top: 300;
+}
+h4:hover{
+    color:green;
+}
+h2:hover{
+    color:blueviolet;
+}
+.orange{
+    background-color: orange;
+}
+.impact{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.small{
+    font-size: small;
+}
+.big{
+    font-size: large;
+}
+.frame{
+    border:green ridge 2px;
+}
+.violet{
+    border: purple solid 3px;
+}
